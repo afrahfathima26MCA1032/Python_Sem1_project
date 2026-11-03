@@ -1,0 +1,15 @@
+[client]
+# Hides the hamburger menu, Deploy button, theme switcher, "Record a screencast",
+# "Rerun", "Clear cache" and other developer-only controls.
+toolbarMode = "minimal"
+showErrorDetails = "none"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#2a9d8f"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#1a1f2b"
+textColor = "#e8eaed"
