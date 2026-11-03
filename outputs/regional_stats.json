@@ -1,0 +1,3230 @@
+{
+ "national_rate": 0.17562,
+ "min_cell": 100,
+ "n_states": 51,
+ "states": {
+  "FL": {
+   "rate": 0.27369,
+   "count": 41192,
+   "rank": 1
+  },
+  "DC": {
+   "rate": 0.23993,
+   "count": 1613,
+   "rank": 2
+  },
+  "GA": {
+   "rate": 0.23963,
+   "count": 22272,
+   "rank": 3
+  },
+  "NV": {
+   "rate": 0.23224,
+   "count": 8022,
+   "rank": 4
+  },
+  "IL": {
+   "rate": 0.2267,
+   "count": 29594,
+   "rank": 5
+  },
+  "MI": {
+   "rate": 0.22505,
+   "count": 20493,
+   "rank": 6
+  },
+  "TN": {
+   "rate": 0.21213,
+   "count": 9400,
+   "rank": 7
+  },
+  "AZ": {
+   "rate": 0.2075,
+   "count": 17624,
+   "rank": 8
+  },
+  "SC": {
+   "rate": 0.20465,
+   "count": 5595,
+   "rank": 9
+  },
+  "NJ": {
+   "rate": 0.20112,
+   "count": 24010,
+   "rank": 10
+  },
+  "NY": {
+   "rate": 0.1995,
+   "count": 57394,
+   "rank": 11
+  },
+  "MD": {
+   "rate": 0.19715,
+   "count": 13259,
+   "rank": 12
+  },
+  "KY": {
+   "rate": 0.19391,
+   "count": 7720,
+   "rank": 13
+  },
+  "NC": {
+   "rate": 0.19285,
+   "count": 14286,
+   "rank": 14
+  },
+  "TX": {
+   "rate": 0.18842,
+   "count": 70401,
+   "rank": 15
+  },
+  "VA": {
+   "rate": 0.18831,
+   "count": 13207,
+   "rank": 16
+  },
+  "CA": {
+   "rate": 0.18515,
+   "count": 130488,
+   "rank": 17
+  },
+  "LA": {
+   "rate": 0.18077,
+   "count": 9570,
+   "rank": 18
+  },
+  "DE": {
+   "rate": 0.17966,
+   "count": 2193,
+   "rank": 19
+  },
+  "CO": {
+   "rate": 0.17822,
+   "count": 20598,
+   "rank": 20
+  },
+  "UT": {
+   "rate": 0.17665,
+   "count": 18772,
+   "rank": 21
+  },
+  "IN": {
+   "rate": 0.17629,
+   "count": 14079,
+   "rank": 22
+  },
+  "AR": {
+   "rate": 0.16801,
+   "count": 6333,
+   "rank": 23
+  },
+  "AL": {
+   "rate": 0.16615,
+   "count": 8360,
+   "rank": 24
+  },
+  "OH": {
+   "rate": 0.16459,
+   "count": 32498,
+   "rank": 25
+  },
+  "WV": {
+   "rate": 0.16134,
+   "count": 3285,
+   "rank": 26
+  },
+  "MS": {
+   "rate": 0.15884,
+   "count": 7668,
+   "rank": 27
+  },
+  "OK": {
+   "rate": 0.15525,
+   "count": 9945,
+   "rank": 28
+  },
+  "OR": {
+   "rate": 0.15288,
+   "count": 11041,
+   "rank": 29
+  },
+  "MO": {
+   "rate": 0.15262,
+   "count": 20652,
+   "rank": 30
+  },
+  "HI": {
+   "rate": 0.15248,
+   "count": 3607,
+   "rank": 31
+  },
+  "PA": {
+   "rate": 0.14623,
+   "count": 34801,
+   "rank": 32
+  },
+  "ID": {
+   "rate": 0.1409,
+   "count": 9496,
+   "rank": 33
+  },
+  "WA": {
+   "rate": 0.14053,
+   "count": 23255,
+   "rank": 34
+  },
+  "CT": {
+   "rate": 0.14043,
+   "count": 12127,
+   "rank": 35
+  },
+  "KS": {
+   "rate": 0.13069,
+   "count": 11455,
+   "rank": 36
+  },
+  "MA": {
+   "rate": 0.1298,
+   "count": 25092,
+   "rank": 37
+  },
+  "WI": {
+   "rate": 0.12178,
+   "count": 21021,
+   "rank": 38
+  },
+  "MN": {
+   "rate": 0.11696,
+   "count": 24359,
+   "rank": 39
+  },
+  "AK": {
+   "rate": 0.11694,
+   "count": 2403,
+   "rank": 40
+  },
+  "IA": {
+   "rate": 0.1153,
+   "count": 11986,
+   "rank": 41
+  },
+  "NE": {
+   "rate": 0.11378,
+   "count": 6381,
+   "rank": 42
+  },
+  "RI": {
+   "rate": 0.11354,
+   "count": 8948,
+   "rank": 43
+  },
+  "NM": {
+   "rate": 0.10919,
+   "count": 6026,
+   "rank": 44
+  },
+  "NH": {
+   "rate": 0.10721,
+   "count": 12023,
+   "rank": 45
+  },
+  "ME": {
+   "rate": 0.0982,
+   "count": 5937,
+   "rank": 46
+  },
+  "SD": {
+   "rate": 0.07882,
+   "count": 4428,
+   "rank": 47
+  },
+  "ND": {
+   "rate": 0.07676,
+   "count": 5237,
+   "rank": 48
+  },
+  "VT": {
+   "rate": 0.07436,
+   "count": 5433,
+   "rank": 49
+  },
+  "WY": {
+   "rate": 0.07012,
+   "count": 2838,
+   "rank": 50
+  },
+  "MT": {
+   "rate": 0.06799,
+   "count": 8737,
+   "rank": 51
+  }
+ },
+ "sectors": {
+  "Real Estate": {
+   "rate": 0.28731,
+   "count": 13588
+  },
+  "Finance & Insurance": {
+   "rate": 0.28427,
+   "count": 9470
+  },
+  "Transportation": {
+   "rate": 0.26504,
+   "count": 22408
+  },
+  "Information": {
+   "rate": 0.24828,
+   "count": 11362
+  },
+  "Educational Services": {
+   "rate": 0.24246,
+   "count": 6401
+  },
+  "Admin & Waste Services": {
+   "rate": 0.23551,
+   "count": 32529
+  },
+  "Construction": {
+   "rate": 0.23255,
+   "count": 66492
+  },
+  "Retail Trade": {
+   "rate": 0.22735,
+   "count": 126975
+  },
+  "Accommodation & Food": {
+   "rate": 0.22044,
+   "count": 67511
+  },
+  "Arts & Recreation": {
+   "rate": 0.20614,
+   "count": 14616
+  },
+  "Other Services": {
+   "rate": 0.19655,
+   "count": 72395
+  },
+  "Wholesale Trade": {
+   "rate": 0.19477,
+   "count": 48673
+  },
+  "Professional Services": {
+   "rate": 0.19076,
+   "count": 67922
+  },
+  "Public Administration": {
+   "rate": 0.15419,
+   "count": 227
+  },
+  "Manufacturing": {
+   "rate": 0.15372,
+   "count": 67903
+  },
+  "Utilities": {
+   "rate": 0.14199,
+   "count": 662
+  },
+  "Health Care": {
+   "rate": 0.10379,
+   "count": 55264
+  },
+  "Management of Companies": {
+   "rate": 0.10156,
+   "count": 256
+  },
+  "Agriculture/Forestry": {
+   "rate": 0.09027,
+   "count": 8995
+  },
+  "Mining & Extraction": {
+   "rate": 0.08482,
+   "count": 1851
+  },
+  "Unknown": {
+   "rate": 0.0833,
+   "count": 201667
+  }
+ },
+ "state_sector": {
+  "AK|Accommodation & Food": {
+   "rate": 0.11728,
+   "count": 162
+  },
+  "AK|Agriculture/Forestry": {
+   "rate": 0.04878,
+   "count": 123
+  },
+  "AK|Construction": {
+   "rate": 0.16,
+   "count": 150
+  },
+  "AK|Health Care": {
+   "rate": 0.03008,
+   "count": 133
+  },
+  "AK|Manufacturing": {
+   "rate": 0.1165,
+   "count": 103
+  },
+  "AK|Other Services": {
+   "rate": 0.06612,
+   "count": 121
+  },
+  "AK|Retail Trade": {
+   "rate": 0.09639,
+   "count": 332
+  },
+  "AK|Unknown": {
+   "rate": 0.15684,
+   "count": 950
+  },
+  "AL|Accommodation & Food": {
+   "rate": 0.22075,
+   "count": 530
+  },
+  "AL|Admin & Waste Services": {
+   "rate": 0.2906,
+   "count": 234
+  },
+  "AL|Agriculture/Forestry": {
+   "rate": 0.03354,
+   "count": 328
+  },
+  "AL|Arts & Recreation": {
+   "rate": 0.27083,
+   "count": 144
+  },
+  "AL|Construction": {
+   "rate": 0.30342,
+   "count": 468
+  },
+  "AL|Health Care": {
+   "rate": 0.12311,
+   "count": 463
+  },
+  "AL|Manufacturing": {
+   "rate": 0.13087,
+   "count": 596
+  },
+  "AL|Other Services": {
+   "rate": 0.20273,
+   "count": 513
+  },
+  "AL|Professional Services": {
+   "rate": 0.2019,
+   "count": 421
+  },
+  "AL|Retail Trade": {
+   "rate": 0.25087,
+   "count": 1144
+  },
+  "AL|Transportation": {
+   "rate": 0.34615,
+   "count": 156
+  },
+  "AL|Unknown": {
+   "rate": 0.07574,
+   "count": 2733
+  },
+  "AL|Wholesale Trade": {
+   "rate": 0.16667,
+   "count": 342
+  },
+  "AR|Accommodation & Food": {
+   "rate": 0.18428,
+   "count": 407
+  },
+  "AR|Admin & Waste Services": {
+   "rate": 0.20571,
+   "count": 175
+  },
+  "AR|Agriculture/Forestry": {
+   "rate": 0.04535,
+   "count": 419
+  },
+  "AR|Arts & Recreation": {
+   "rate": 0.15094,
+   "count": 106
+  },
+  "AR|Construction": {
+   "rate": 0.21656,
+   "count": 314
+  },
+  "AR|Health Care": {
+   "rate": 0.15172,
+   "count": 290
+  },
+  "AR|Manufacturing": {
+   "rate": 0.18519,
+   "count": 459
+  },
+  "AR|Other Services": {
+   "rate": 0.15897,
+   "count": 390
+  },
+  "AR|Professional Services": {
+   "rate": 0.17375,
+   "count": 259
+  },
+  "AR|Retail Trade": {
+   "rate": 0.24465,
+   "count": 981
+  },
+  "AR|Transportation": {
+   "rate": 0.39869,
+   "count": 153
+  },
+  "AR|Unknown": {
+   "rate": 0.11099,
+   "count": 1910
+  },
+  "AR|Wholesale Trade": {
+   "rate": 0.20576,
+   "count": 243
+  },
+  "AZ|Accommodation & Food": {
+   "rate": 0.25479,
+   "count": 1201
+  },
+  "AZ|Admin & Waste Services": {
+   "rate": 0.23928,
+   "count": 723
+  },
+  "AZ|Arts & Recreation": {
+   "rate": 0.33028,
+   "count": 218
+  },
+  "AZ|Construction": {
+   "rate": 0.31306,
+   "count": 1677
+  },
+  "AZ|Educational Services": {
+   "rate": 0.27692,
+   "count": 130
+  },
+  "AZ|Finance & Insurance": {
+   "rate": 0.25939,
+   "count": 293
+  },
+  "AZ|Health Care": {
+   "rate": 0.12231,
+   "count": 1578
+  },
+  "AZ|Information": {
+   "rate": 0.28042,
+   "count": 189
+  },
+  "AZ|Manufacturing": {
+   "rate": 0.19533,
+   "count": 1285
+  },
+  "AZ|Other Services": {
+   "rate": 0.24316,
+   "count": 1534
+  },
+  "AZ|Professional Services": {
+   "rate": 0.23059,
+   "count": 1713
+  },
+  "AZ|Real Estate": {
+   "rate": 0.26567,
+   "count": 335
+  },
+  "AZ|Retail Trade": {
+   "rate": 0.26802,
+   "count": 2067
+  },
+  "AZ|Transportation": {
+   "rate": 0.34783,
+   "count": 368
+  },
+  "AZ|Unknown": {
+   "rate": 0.07285,
+   "count": 3377
+  },
+  "AZ|Wholesale Trade": {
+   "rate": 0.20574,
+   "count": 836
+  },
+  "CA|Accommodation & Food": {
+   "rate": 0.23626,
+   "count": 8969
+  },
+  "CA|Admin & Waste Services": {
+   "rate": 0.30526,
+   "count": 3954
+  },
+  "CA|Agriculture/Forestry": {
+   "rate": 0.08671,
+   "count": 346
+  },
+  "CA|Arts & Recreation": {
+   "rate": 0.28231,
+   "count": 1679
+  },
+  "CA|Construction": {
+   "rate": 0.22486,
+   "count": 8334
+  },
+  "CA|Educational Services": {
+   "rate": 0.28274,
+   "count": 1008
+  },
+  "CA|Finance & Insurance": {
+   "rate": 0.30945,
+   "count": 1703
+  },
+  "CA|Health Care": {
+   "rate": 0.11798,
+   "count": 7705
+  },
+  "CA|Information": {
+   "rate": 0.29403,
+   "count": 1993
+  },
+  "CA|Manufacturing": {
+   "rate": 0.16878,
+   "count": 11334
+  },
+  "CA|Other Services": {
+   "rate": 0.20533,
+   "count": 10028
+  },
+  "CA|Professional Services": {
+   "rate": 0.21726,
+   "count": 10867
+  },
+  "CA|Real Estate": {
+   "rate": 0.32181,
+   "count": 2141
+  },
+  "CA|Retail Trade": {
+   "rate": 0.25071,
+   "count": 18184
+  },
+  "CA|Transportation": {
+   "rate": 0.29959,
+   "count": 2450
+  },
+  "CA|Unknown": {
+   "rate": 0.05425,
+   "count": 28680
+  },
+  "CA|Wholesale Trade": {
+   "rate": 0.2062,
+   "count": 10912
+  },
+  "CO|Accommodation & Food": {
+   "rate": 0.20831,
+   "count": 1541
+  },
+  "CO|Admin & Waste Services": {
+   "rate": 0.2432,
+   "count": 625
+  },
+  "CO|Arts & Recreation": {
+   "rate": 0.20732,
+   "count": 328
+  },
+  "CO|Construction": {
+   "rate": 0.27408,
+   "count": 2087
+  },
+  "CO|Educational Services": {
+   "rate": 0.2381,
+   "count": 126
+  },
+  "CO|Finance & Insurance": {
+   "rate": 0.42705,
+   "count": 281
+  },
+  "CO|Health Care": {
+   "rate": 0.12582,
+   "count": 1073
+  },
+  "CO|Information": {
+   "rate": 0.21514,
+   "count": 251
+  },
+  "CO|Manufacturing": {
+   "rate": 0.16343,
+   "count": 1340
+  },
+  "CO|Other Services": {
+   "rate": 0.19137,
+   "count": 1714
+  },
+  "CO|Professional Services": {
+   "rate": 0.18317,
+   "count": 1747
+  },
+  "CO|Real Estate": {
+   "rate": 0.30653,
+   "count": 398
+  },
+  "CO|Retail Trade": {
+   "rate": 0.20391,
+   "count": 3021
+  },
+  "CO|Transportation": {
+   "rate": 0.28614,
+   "count": 339
+  },
+  "CO|Unknown": {
+   "rate": 0.07753,
+   "count": 4656
+  },
+  "CO|Wholesale Trade": {
+   "rate": 0.14754,
+   "count": 915
+  },
+  "CT|Accommodation & Food": {
+   "rate": 0.20199,
+   "count": 906
+  },
+  "CT|Admin & Waste Services": {
+   "rate": 0.16574,
+   "count": 537
+  },
+  "CT|Arts & Recreation": {
+   "rate": 0.15351,
+   "count": 228
+  },
+  "CT|Construction": {
+   "rate": 0.19877,
+   "count": 1142
+  },
+  "CT|Finance & Insurance": {
+   "rate": 0.20536,
+   "count": 112
+  },
+  "CT|Health Care": {
+   "rate": 0.0541,
+   "count": 647
+  },
+  "CT|Information": {
+   "rate": 0.16038,
+   "count": 106
+  },
+  "CT|Manufacturing": {
+   "rate": 0.10688,
+   "count": 1076
+  },
+  "CT|Other Services": {
+   "rate": 0.16016,
+   "count": 1024
+  },
+  "CT|Professional Services": {
+   "rate": 0.11099,
+   "count": 946
+  },
+  "CT|Real Estate": {
+   "rate": 0.28402,
+   "count": 169
+  },
+  "CT|Retail Trade": {
+   "rate": 0.16667,
+   "count": 1902
+  },
+  "CT|Transportation": {
+   "rate": 0.26111,
+   "count": 180
+  },
+  "CT|Unknown": {
+   "rate": 0.078,
+   "count": 2436
+  },
+  "CT|Wholesale Trade": {
+   "rate": 0.14613,
+   "count": 568
+  },
+  "DC|Accommodation & Food": {
+   "rate": 0.20588,
+   "count": 204
+  },
+  "DC|Other Services": {
+   "rate": 0.26446,
+   "count": 121
+  },
+  "DC|Professional Services": {
+   "rate": 0.22109,
+   "count": 294
+  },
+  "DC|Retail Trade": {
+   "rate": 0.3373,
+   "count": 252
+  },
+  "DC|Unknown": {
+   "rate": 0.07749,
+   "count": 271
+  },
+  "DE|Accommodation & Food": {
+   "rate": 0.2037,
+   "count": 216
+  },
+  "DE|Admin & Waste Services": {
+   "rate": 0.29231,
+   "count": 130
+  },
+  "DE|Construction": {
+   "rate": 0.21918,
+   "count": 146
+  },
+  "DE|Health Care": {
+   "rate": 0.072,
+   "count": 125
+  },
+  "DE|Manufacturing": {
+   "rate": 0.17829,
+   "count": 129
+  },
+  "DE|Other Services": {
+   "rate": 0.20541,
+   "count": 185
+  },
+  "DE|Professional Services": {
+   "rate": 0.21622,
+   "count": 148
+  },
+  "DE|Retail Trade": {
+   "rate": 0.22096,
+   "count": 353
+  },
+  "DE|Unknown": {
+   "rate": 0.05252,
+   "count": 457
+  },
+  "FL|Accommodation & Food": {
+   "rate": 0.29384,
+   "count": 2777
+  },
+  "FL|Admin & Waste Services": {
+   "rate": 0.35709,
+   "count": 2484
+  },
+  "FL|Arts & Recreation": {
+   "rate": 0.29521,
+   "count": 647
+  },
+  "FL|Construction": {
+   "rate": 0.3937,
+   "count": 2700
+  },
+  "FL|Educational Services": {
+   "rate": 0.24863,
+   "count": 366
+  },
+  "FL|Finance & Insurance": {
+   "rate": 0.34033,
+   "count": 667
+  },
+  "FL|Health Care": {
+   "rate": 0.15627,
+   "count": 3110
+  },
+  "FL|Information": {
+   "rate": 0.35531,
+   "count": 546
+  },
+  "FL|Manufacturing": {
+   "rate": 0.25922,
+   "count": 3009
+  },
+  "FL|Other Services": {
+   "rate": 0.29946,
+   "count": 3326
+  },
+  "FL|Professional Services": {
+   "rate": 0.28477,
+   "count": 3645
+  },
+  "FL|Real Estate": {
+   "rate": 0.40244,
+   "count": 902
+  },
+  "FL|Retail Trade": {
+   "rate": 0.34132,
+   "count": 5596
+  },
+  "FL|Transportation": {
+   "rate": 0.41852,
+   "count": 1166
+  },
+  "FL|Unknown": {
+   "rate": 0.09186,
+   "count": 6608
+  },
+  "FL|Wholesale Trade": {
+   "rate": 0.31523,
+   "count": 3480
+  },
+  "GA|Accommodation & Food": {
+   "rate": 0.30726,
+   "count": 1777
+  },
+  "GA|Admin & Waste Services": {
+   "rate": 0.40385,
+   "count": 988
+  },
+  "GA|Agriculture/Forestry": {
+   "rate": 0.04749,
+   "count": 358
+  },
+  "GA|Arts & Recreation": {
+   "rate": 0.33854,
+   "count": 384
+  },
+  "GA|Construction": {
+   "rate": 0.36473,
+   "count": 1083
+  },
+  "GA|Educational Services": {
+   "rate": 0.36158,
+   "count": 177
+  },
+  "GA|Finance & Insurance": {
+   "rate": 0.43005,
+   "count": 193
+  },
+  "GA|Health Care": {
+   "rate": 0.12567,
+   "count": 1679
+  },
+  "GA|Information": {
+   "rate": 0.37979,
+   "count": 287
+  },
+  "GA|Manufacturing": {
+   "rate": 0.18824,
+   "count": 1190
+  },
+  "GA|Other Services": {
+   "rate": 0.24699,
+   "count": 2162
+  },
+  "GA|Professional Services": {
+   "rate": 0.34861,
+   "count": 1833
+  },
+  "GA|Real Estate": {
+   "rate": 0.47892,
+   "count": 332
+  },
+  "GA|Retail Trade": {
+   "rate": 0.28624,
+   "count": 3277
+  },
+  "GA|Transportation": {
+   "rate": 0.46868,
+   "count": 463
+  },
+  "GA|Unknown": {
+   "rate": 0.08911,
+   "count": 5095
+  },
+  "GA|Wholesale Trade": {
+   "rate": 0.21788,
+   "count": 973
+  },
+  "HI|Accommodation & Food": {
+   "rate": 0.16498,
+   "count": 297
+  },
+  "HI|Admin & Waste Services": {
+   "rate": 0.16901,
+   "count": 142
+  },
+  "HI|Construction": {
+   "rate": 0.16149,
+   "count": 322
+  },
+  "HI|Health Care": {
+   "rate": 0.05907,
+   "count": 237
+  },
+  "HI|Manufacturing": {
+   "rate": 0.13757,
+   "count": 189
+  },
+  "HI|Other Services": {
+   "rate": 0.15023,
+   "count": 213
+  },
+  "HI|Professional Services": {
+   "rate": 0.18996,
+   "count": 279
+  },
+  "HI|Retail Trade": {
+   "rate": 0.24522,
+   "count": 575
+  },
+  "HI|Unknown": {
+   "rate": 0.05832,
+   "count": 703
+  },
+  "HI|Wholesale Trade": {
+   "rate": 0.139,
+   "count": 259
+  },
+  "IA|Accommodation & Food": {
+   "rate": 0.23598,
+   "count": 767
+  },
+  "IA|Admin & Waste Services": {
+   "rate": 0.12811,
+   "count": 281
+  },
+  "IA|Agriculture/Forestry": {
+   "rate": 0.0207,
+   "count": 483
+  },
+  "IA|Arts & Recreation": {
+   "rate": 0.14978,
+   "count": 227
+  },
+  "IA|Construction": {
+   "rate": 0.14541,
+   "count": 839
+  },
+  "IA|Health Care": {
+   "rate": 0.06822,
+   "count": 645
+  },
+  "IA|Information": {
+   "rate": 0.16814,
+   "count": 113
+  },
+  "IA|Manufacturing": {
+   "rate": 0.12037,
+   "count": 756
+  },
+  "IA|Other Services": {
+   "rate": 0.11288,
+   "count": 815
+  },
+  "IA|Professional Services": {
+   "rate": 0.09252,
+   "count": 508
+  },
+  "IA|Retail Trade": {
+   "rate": 0.15083,
+   "count": 1737
+  },
+  "IA|Transportation": {
+   "rate": 0.17588,
+   "count": 199
+  },
+  "IA|Unknown": {
+   "rate": 0.08075,
+   "count": 3938
+  },
+  "IA|Wholesale Trade": {
+   "rate": 0.10549,
+   "count": 455
+  },
+  "ID|Accommodation & Food": {
+   "rate": 0.20147,
+   "count": 546
+  },
+  "ID|Admin & Waste Services": {
+   "rate": 0.1677,
+   "count": 322
+  },
+  "ID|Agriculture/Forestry": {
+   "rate": 0.04724,
+   "count": 127
+  },
+  "ID|Arts & Recreation": {
+   "rate": 0.14516,
+   "count": 124
+  },
+  "ID|Construction": {
+   "rate": 0.26095,
+   "count": 1096
+  },
+  "ID|Health Care": {
+   "rate": 0.06563,
+   "count": 899
+  },
+  "ID|Manufacturing": {
+   "rate": 0.16258,
+   "count": 652
+  },
+  "ID|Other Services": {
+   "rate": 0.13495,
+   "count": 578
+  },
+  "ID|Professional Services": {
+   "rate": 0.16239,
+   "count": 585
+  },
+  "ID|Real Estate": {
+   "rate": 0.19048,
+   "count": 147
+  },
+  "ID|Retail Trade": {
+   "rate": 0.17908,
+   "count": 1195
+  },
+  "ID|Transportation": {
+   "rate": 0.13514,
+   "count": 222
+  },
+  "ID|Unknown": {
+   "rate": 0.07253,
+   "count": 2344
+  },
+  "ID|Wholesale Trade": {
+   "rate": 0.0961,
+   "count": 385
+  },
+  "IL|Accommodation & Food": {
+   "rate": 0.23294,
+   "count": 2271
+  },
+  "IL|Admin & Waste Services": {
+   "rate": 0.26832,
+   "count": 1010
+  },
+  "IL|Arts & Recreation": {
+   "rate": 0.23035,
+   "count": 547
+  },
+  "IL|Construction": {
+   "rate": 0.32034,
+   "count": 2026
+  },
+  "IL|Educational Services": {
+   "rate": 0.23984,
+   "count": 246
+  },
+  "IL|Finance & Insurance": {
+   "rate": 0.32047,
+   "count": 337
+  },
+  "IL|Health Care": {
+   "rate": 0.117,
+   "count": 1829
+  },
+  "IL|Information": {
+   "rate": 0.31043,
+   "count": 422
+  },
+  "IL|Manufacturing": {
+   "rate": 0.17201,
+   "count": 2244
+  },
+  "IL|Other Services": {
+   "rate": 0.21314,
+   "count": 2937
+  },
+  "IL|Professional Services": {
+   "rate": 0.25802,
+   "count": 2399
+  },
+  "IL|Real Estate": {
+   "rate": 0.46199,
+   "count": 513
+  },
+  "IL|Retail Trade": {
+   "rate": 0.27653,
+   "count": 4014
+  },
+  "IL|Transportation": {
+   "rate": 0.37965,
+   "count": 1130
+  },
+  "IL|Unknown": {
+   "rate": 0.13066,
+   "count": 5901
+  },
+  "IL|Wholesale Trade": {
+   "rate": 0.25759,
+   "count": 1646
+  },
+  "IN|Accommodation & Food": {
+   "rate": 0.22187,
+   "count": 1271
+  },
+  "IN|Admin & Waste Services": {
+   "rate": 0.18227,
+   "count": 598
+  },
+  "IN|Arts & Recreation": {
+   "rate": 0.15719,
+   "count": 299
+  },
+  "IN|Construction": {
+   "rate": 0.22655,
+   "count": 1130
+  },
+  "IN|Educational Services": {
+   "rate": 0.31579,
+   "count": 114
+  },
+  "IN|Finance & Insurance": {
+   "rate": 0.1625,
+   "count": 160
+  },
+  "IN|Health Care": {
+   "rate": 0.11062,
+   "count": 904
+  },
+  "IN|Information": {
+   "rate": 0.20231,
+   "count": 173
+  },
+  "IN|Manufacturing": {
+   "rate": 0.14691,
+   "count": 1341
+  },
+  "IN|Other Services": {
+   "rate": 0.21275,
+   "count": 1161
+  },
+  "IN|Professional Services": {
+   "rate": 0.18719,
+   "count": 1015
+  },
+  "IN|Real Estate": {
+   "rate": 0.23043,
+   "count": 230
+  },
+  "IN|Retail Trade": {
+   "rate": 0.23807,
+   "count": 1970
+  },
+  "IN|Transportation": {
+   "rate": 0.25214,
+   "count": 468
+  },
+  "IN|Unknown": {
+   "rate": 0.09475,
+   "count": 2512
+  },
+  "IN|Wholesale Trade": {
+   "rate": 0.10692,
+   "count": 636
+  },
+  "KS|Accommodation & Food": {
+   "rate": 0.22981,
+   "count": 644
+  },
+  "KS|Admin & Waste Services": {
+   "rate": 0.11809,
+   "count": 398
+  },
+  "KS|Agriculture/Forestry": {
+   "rate": 0.0383,
+   "count": 235
+  },
+  "KS|Arts & Recreation": {
+   "rate": 0.14793,
+   "count": 169
+  },
+  "KS|Construction": {
+   "rate": 0.16168,
+   "count": 736
+  },
+  "KS|Health Care": {
+   "rate": 0.1045,
+   "count": 622
+  },
+  "KS|Information": {
+   "rate": 0.08511,
+   "count": 141
+  },
+  "KS|Manufacturing": {
+   "rate": 0.10668,
+   "count": 778
+  },
+  "KS|Other Services": {
+   "rate": 0.12154,
+   "count": 831
+  },
+  "KS|Professional Services": {
+   "rate": 0.09604,
+   "count": 656
+  },
+  "KS|Retail Trade": {
+   "rate": 0.1644,
+   "count": 1691
+  },
+  "KS|Transportation": {
+   "rate": 0.1789,
+   "count": 218
+  },
+  "KS|Unknown": {
+   "rate": 0.11737,
+   "count": 3604
+  },
+  "KS|Wholesale Trade": {
+   "rate": 0.10889,
+   "count": 450
+  },
+  "KY|Accommodation & Food": {
+   "rate": 0.25518,
+   "count": 627
+  },
+  "KY|Admin & Waste Services": {
+   "rate": 0.19062,
+   "count": 341
+  },
+  "KY|Agriculture/Forestry": {
+   "rate": 0.05455,
+   "count": 165
+  },
+  "KY|Arts & Recreation": {
+   "rate": 0.21233,
+   "count": 146
+  },
+  "KY|Construction": {
+   "rate": 0.26817,
+   "count": 578
+  },
+  "KY|Health Care": {
+   "rate": 0.14118,
+   "count": 510
+  },
+  "KY|Manufacturing": {
+   "rate": 0.19811,
+   "count": 530
+  },
+  "KY|Other Services": {
+   "rate": 0.21298,
+   "count": 601
+  },
+  "KY|Professional Services": {
+   "rate": 0.15835,
+   "count": 461
+  },
+  "KY|Retail Trade": {
+   "rate": 0.24457,
+   "count": 1198
+  },
+  "KY|Transportation": {
+   "rate": 0.17623,
+   "count": 244
+  },
+  "KY|Unknown": {
+   "rate": 0.13855,
+   "count": 1725
+  },
+  "KY|Wholesale Trade": {
+   "rate": 0.16776,
+   "count": 304
+  },
+  "LA|Accommodation & Food": {
+   "rate": 0.1896,
+   "count": 654
+  },
+  "LA|Admin & Waste Services": {
+   "rate": 0.22549,
+   "count": 306
+  },
+  "LA|Agriculture/Forestry": {
+   "rate": 0.28779,
+   "count": 344
+  },
+  "LA|Arts & Recreation": {
+   "rate": 0.1875,
+   "count": 192
+  },
+  "LA|Construction": {
+   "rate": 0.24653,
+   "count": 576
+  },
+  "LA|Health Care": {
+   "rate": 0.12062,
+   "count": 514
+  },
+  "LA|Information": {
+   "rate": 0.29697,
+   "count": 165
+  },
+  "LA|Manufacturing": {
+   "rate": 0.13311,
+   "count": 601
+  },
+  "LA|Other Services": {
+   "rate": 0.20975,
+   "count": 677
+  },
+  "LA|Professional Services": {
+   "rate": 0.2253,
+   "count": 577
+  },
+  "LA|Real Estate": {
+   "rate": 0.18831,
+   "count": 154
+  },
+  "LA|Retail Trade": {
+   "rate": 0.22994,
+   "count": 1396
+  },
+  "LA|Transportation": {
+   "rate": 0.26502,
+   "count": 283
+  },
+  "LA|Unknown": {
+   "rate": 0.11324,
+   "count": 2508
+  },
+  "LA|Wholesale Trade": {
+   "rate": 0.1253,
+   "count": 415
+  },
+  "MA|Accommodation & Food": {
+   "rate": 0.16261,
+   "count": 1851
+  },
+  "MA|Admin & Waste Services": {
+   "rate": 0.16145,
+   "count": 1214
+  },
+  "MA|Arts & Recreation": {
+   "rate": 0.14667,
+   "count": 525
+  },
+  "MA|Construction": {
+   "rate": 0.21187,
+   "count": 2039
+  },
+  "MA|Educational Services": {
+   "rate": 0.16814,
+   "count": 226
+  },
+  "MA|Finance & Insurance": {
+   "rate": 0.17904,
+   "count": 229
+  },
+  "MA|Health Care": {
+   "rate": 0.06325,
+   "count": 1249
+  },
+  "MA|Information": {
+   "rate": 0.13529,
+   "count": 340
+  },
+  "MA|Manufacturing": {
+   "rate": 0.11839,
+   "count": 1968
+  },
+  "MA|Other Services": {
+   "rate": 0.1325,
+   "count": 2068
+  },
+  "MA|Professional Services": {
+   "rate": 0.11185,
+   "count": 2700
+  },
+  "MA|Real Estate": {
+   "rate": 0.23018,
+   "count": 391
+  },
+  "MA|Retail Trade": {
+   "rate": 0.16057,
+   "count": 3693
+  },
+  "MA|Transportation": {
+   "rate": 0.20417,
+   "count": 671
+  },
+  "MA|Unknown": {
+   "rate": 0.05772,
+   "count": 4643
+  },
+  "MA|Wholesale Trade": {
+   "rate": 0.11545,
+   "count": 1152
+  },
+  "MD|Accommodation & Food": {
+   "rate": 0.23676,
+   "count": 963
+  },
+  "MD|Admin & Waste Services": {
+   "rate": 0.24047,
+   "count": 682
+  },
+  "MD|Arts & Recreation": {
+   "rate": 0.25397,
+   "count": 252
+  },
+  "MD|Construction": {
+   "rate": 0.27725,
+   "count": 1046
+  },
+  "MD|Educational Services": {
+   "rate": 0.34857,
+   "count": 175
+  },
+  "MD|Finance & Insurance": {
+   "rate": 0.31818,
+   "count": 154
+  },
+  "MD|Health Care": {
+   "rate": 0.12446,
+   "count": 924
+  },
+  "MD|Information": {
+   "rate": 0.30451,
+   "count": 266
+  },
+  "MD|Manufacturing": {
+   "rate": 0.2032,
+   "count": 625
+  },
+  "MD|Other Services": {
+   "rate": 0.19907,
+   "count": 1080
+  },
+  "MD|Professional Services": {
+   "rate": 0.19765,
+   "count": 1533
+  },
+  "MD|Real Estate": {
+   "rate": 0.2878,
+   "count": 205
+  },
+  "MD|Retail Trade": {
+   "rate": 0.22662,
+   "count": 1818
+  },
+  "MD|Transportation": {
+   "rate": 0.30667,
+   "count": 375
+  },
+  "MD|Unknown": {
+   "rate": 0.08172,
+   "count": 2582
+  },
+  "MD|Wholesale Trade": {
+   "rate": 0.22179,
+   "count": 514
+  },
+  "ME|Accommodation & Food": {
+   "rate": 0.11928,
+   "count": 503
+  },
+  "ME|Admin & Waste Services": {
+   "rate": 0.07407,
+   "count": 189
+  },
+  "ME|Agriculture/Forestry": {
+   "rate": 0.03597,
+   "count": 139
+  },
+  "ME|Arts & Recreation": {
+   "rate": 0.11111,
+   "count": 126
+  },
+  "ME|Construction": {
+   "rate": 0.11804,
+   "count": 593
+  },
+  "ME|Health Care": {
+   "rate": 0.04633,
+   "count": 259
+  },
+  "ME|Manufacturing": {
+   "rate": 0.11944,
+   "count": 427
+  },
+  "ME|Other Services": {
+   "rate": 0.08211,
+   "count": 341
+  },
+  "ME|Professional Services": {
+   "rate": 0.09914,
+   "count": 232
+  },
+  "ME|Retail Trade": {
+   "rate": 0.13886,
+   "count": 965
+  },
+  "ME|Transportation": {
+   "rate": 0.13736,
+   "count": 182
+  },
+  "ME|Unknown": {
+   "rate": 0.06736,
+   "count": 1529
+  },
+  "ME|Wholesale Trade": {
+   "rate": 0.09091,
+   "count": 242
+  },
+  "MI|Accommodation & Food": {
+   "rate": 0.24369,
+   "count": 1703
+  },
+  "MI|Admin & Waste Services": {
+   "rate": 0.23385,
+   "count": 774
+  },
+  "MI|Arts & Recreation": {
+   "rate": 0.22546,
+   "count": 377
+  },
+  "MI|Construction": {
+   "rate": 0.28805,
+   "count": 1465
+  },
+  "MI|Educational Services": {
+   "rate": 0.28462,
+   "count": 130
+  },
+  "MI|Finance & Insurance": {
+   "rate": 0.28899,
+   "count": 218
+  },
+  "MI|Health Care": {
+   "rate": 0.11308,
+   "count": 1185
+  },
+  "MI|Information": {
+   "rate": 0.29464,
+   "count": 224
+  },
+  "MI|Manufacturing": {
+   "rate": 0.15293,
+   "count": 1929
+  },
+  "MI|Other Services": {
+   "rate": 0.29965,
+   "count": 1712
+  },
+  "MI|Professional Services": {
+   "rate": 0.23835,
+   "count": 1502
+  },
+  "MI|Real Estate": {
+   "rate": 0.42526,
+   "count": 388
+  },
+  "MI|Retail Trade": {
+   "rate": 0.31184,
+   "count": 3396
+  },
+  "MI|Transportation": {
+   "rate": 0.29736,
+   "count": 834
+  },
+  "MI|Unknown": {
+   "rate": 0.0884,
+   "count": 3665
+  },
+  "MI|Wholesale Trade": {
+   "rate": 0.26682,
+   "count": 847
+  },
+  "MN|Accommodation & Food": {
+   "rate": 0.15128,
+   "count": 1917
+  },
+  "MN|Admin & Waste Services": {
+   "rate": 0.13736,
+   "count": 728
+  },
+  "MN|Agriculture/Forestry": {
+   "rate": 0.08163,
+   "count": 245
+  },
+  "MN|Arts & Recreation": {
+   "rate": 0.19239,
+   "count": 447
+  },
+  "MN|Construction": {
+   "rate": 0.18439,
+   "count": 2153
+  },
+  "MN|Educational Services": {
+   "rate": 0.175,
+   "count": 160
+  },
+  "MN|Finance & Insurance": {
+   "rate": 0.17647,
+   "count": 306
+  },
+  "MN|Health Care": {
+   "rate": 0.08319,
+   "count": 1190
+  },
+  "MN|Information": {
+   "rate": 0.12992,
+   "count": 254
+  },
+  "MN|Manufacturing": {
+   "rate": 0.09778,
+   "count": 2475
+  },
+  "MN|Other Services": {
+   "rate": 0.12507,
+   "count": 1671
+  },
+  "MN|Professional Services": {
+   "rate": 0.112,
+   "count": 1616
+  },
+  "MN|Real Estate": {
+   "rate": 0.22454,
+   "count": 383
+  },
+  "MN|Retail Trade": {
+   "rate": 0.16358,
+   "count": 3289
+  },
+  "MN|Transportation": {
+   "rate": 0.17006,
+   "count": 541
+  },
+  "MN|Unknown": {
+   "rate": 0.04501,
+   "count": 5665
+  },
+  "MN|Wholesale Trade": {
+   "rate": 0.10433,
+   "count": 1246
+  },
+  "MO|Accommodation & Food": {
+   "rate": 0.22107,
+   "count": 1452
+  },
+  "MO|Admin & Waste Services": {
+   "rate": 0.18049,
+   "count": 687
+  },
+  "MO|Agriculture/Forestry": {
+   "rate": 0.05462,
+   "count": 238
+  },
+  "MO|Arts & Recreation": {
+   "rate": 0.16393,
+   "count": 305
+  },
+  "MO|Construction": {
+   "rate": 0.19311,
+   "count": 1626
+  },
+  "MO|Educational Services": {
+   "rate": 0.28889,
+   "count": 135
+  },
+  "MO|Finance & Insurance": {
+   "rate": 0.28378,
+   "count": 222
+  },
+  "MO|Health Care": {
+   "rate": 0.10922,
+   "count": 1172
+  },
+  "MO|Information": {
+   "rate": 0.16183,
+   "count": 241
+  },
+  "MO|Manufacturing": {
+   "rate": 0.13566,
+   "count": 1430
+  },
+  "MO|Other Services": {
+   "rate": 0.17329,
+   "count": 1460
+  },
+  "MO|Professional Services": {
+   "rate": 0.12799,
+   "count": 1211
+  },
+  "MO|Real Estate": {
+   "rate": 0.23264,
+   "count": 288
+  },
+  "MO|Retail Trade": {
+   "rate": 0.21191,
+   "count": 2619
+  },
+  "MO|Transportation": {
+   "rate": 0.18129,
+   "count": 513
+  },
+  "MO|Unknown": {
+   "rate": 0.10063,
+   "count": 6151
+  },
+  "MO|Wholesale Trade": {
+   "rate": 0.14352,
+   "count": 857
+  },
+  "MS|Accommodation & Food": {
+   "rate": 0.19458,
+   "count": 406
+  },
+  "MS|Admin & Waste Services": {
+   "rate": 0.21354,
+   "count": 192
+  },
+  "MS|Agriculture/Forestry": {
+   "rate": 0.10208,
+   "count": 2214
+  },
+  "MS|Construction": {
+   "rate": 0.30492,
+   "count": 305
+  },
+  "MS|Health Care": {
+   "rate": 0.09247,
+   "count": 292
+  },
+  "MS|Manufacturing": {
+   "rate": 0.17445,
+   "count": 321
+  },
+  "MS|Other Services": {
+   "rate": 0.17354,
+   "count": 461
+  },
+  "MS|Professional Services": {
+   "rate": 0.21186,
+   "count": 236
+  },
+  "MS|Retail Trade": {
+   "rate": 0.23939,
+   "count": 990
+  },
+  "MS|Transportation": {
+   "rate": 0.24206,
+   "count": 252
+  },
+  "MS|Unknown": {
+   "rate": 0.10366,
+   "count": 1476
+  },
+  "MS|Wholesale Trade": {
+   "rate": 0.15179,
+   "count": 224
+  },
+  "MT|Accommodation & Food": {
+   "rate": 0.08915,
+   "count": 516
+  },
+  "MT|Admin & Waste Services": {
+   "rate": 0.03465,
+   "count": 202
+  },
+  "MT|Agriculture/Forestry": {
+   "rate": 0.0458,
+   "count": 131
+  },
+  "MT|Arts & Recreation": {
+   "rate": 0.07339,
+   "count": 109
+  },
+  "MT|Construction": {
+   "rate": 0.07075,
+   "count": 848
+  },
+  "MT|Health Care": {
+   "rate": 0.0331,
+   "count": 423
+  },
+  "MT|Manufacturing": {
+   "rate": 0.05872,
+   "count": 562
+  },
+  "MT|Other Services": {
+   "rate": 0.04762,
+   "count": 567
+  },
+  "MT|Professional Services": {
+   "rate": 0.07363,
+   "count": 421
+  },
+  "MT|Real Estate": {
+   "rate": 0.08491,
+   "count": 106
+  },
+  "MT|Retail Trade": {
+   "rate": 0.0901,
+   "count": 1232
+  },
+  "MT|Transportation": {
+   "rate": 0.08629,
+   "count": 197
+  },
+  "MT|Unknown": {
+   "rate": 0.06106,
+   "count": 2899
+  },
+  "MT|Wholesale Trade": {
+   "rate": 0.0806,
+   "count": 335
+  },
+  "NC|Accommodation & Food": {
+   "rate": 0.24542,
+   "count": 1255
+  },
+  "NC|Admin & Waste Services": {
+   "rate": 0.24851,
+   "count": 672
+  },
+  "NC|Agriculture/Forestry": {
+   "rate": 0.06299,
+   "count": 127
+  },
+  "NC|Arts & Recreation": {
+   "rate": 0.17227,
+   "count": 238
+  },
+  "NC|Construction": {
+   "rate": 0.29312,
+   "count": 945
+  },
+  "NC|Educational Services": {
+   "rate": 0.24113,
+   "count": 141
+  },
+  "NC|Finance & Insurance": {
+   "rate": 0.37209,
+   "count": 129
+  },
+  "NC|Health Care": {
+   "rate": 0.12611,
+   "count": 1015
+  },
+  "NC|Information": {
+   "rate": 0.32812,
+   "count": 192
+  },
+  "NC|Manufacturing": {
+   "rate": 0.16056,
+   "count": 928
+  },
+  "NC|Other Services": {
+   "rate": 0.22765,
+   "count": 1085
+  },
+  "NC|Professional Services": {
+   "rate": 0.20425,
+   "count": 989
+  },
+  "NC|Real Estate": {
+   "rate": 0.33155,
+   "count": 187
+  },
+  "NC|Retail Trade": {
+   "rate": 0.27605,
+   "count": 2054
+  },
+  "NC|Transportation": {
+   "rate": 0.32771,
+   "count": 415
+  },
+  "NC|Unknown": {
+   "rate": 0.05987,
+   "count": 3307
+  },
+  "NC|Wholesale Trade": {
+   "rate": 0.20275,
+   "count": 582
+  },
+  "ND|Accommodation & Food": {
+   "rate": 0.0918,
+   "count": 305
+  },
+  "ND|Admin & Waste Services": {
+   "rate": 0.08163,
+   "count": 147
+  },
+  "ND|Agriculture/Forestry": {
+   "rate": 0.07634,
+   "count": 131
+  },
+  "ND|Construction": {
+   "rate": 0.07424,
+   "count": 458
+  },
+  "ND|Health Care": {
+   "rate": 0.03292,
+   "count": 243
+  },
+  "ND|Manufacturing": {
+   "rate": 0.08964,
+   "count": 357
+  },
+  "ND|Other Services": {
+   "rate": 0.08411,
+   "count": 321
+  },
+  "ND|Professional Services": {
+   "rate": 0.06522,
+   "count": 230
+  },
+  "ND|Retail Trade": {
+   "rate": 0.0869,
+   "count": 817
+  },
+  "ND|Transportation": {
+   "rate": 0.0438,
+   "count": 137
+  },
+  "ND|Unknown": {
+   "rate": 0.08371,
+   "count": 1529
+  },
+  "ND|Wholesale Trade": {
+   "rate": 0.06228,
+   "count": 289
+  },
+  "NE|Accommodation & Food": {
+   "rate": 0.24717,
+   "count": 530
+  },
+  "NE|Admin & Waste Services": {
+   "rate": 0.10227,
+   "count": 264
+  },
+  "NE|Arts & Recreation": {
+   "rate": 0.07317,
+   "count": 123
+  },
+  "NE|Construction": {
+   "rate": 0.12594,
+   "count": 532
+  },
+  "NE|Health Care": {
+   "rate": 0.05792,
+   "count": 518
+  },
+  "NE|Manufacturing": {
+   "rate": 0.12317,
+   "count": 341
+  },
+  "NE|Other Services": {
+   "rate": 0.10841,
+   "count": 535
+  },
+  "NE|Professional Services": {
+   "rate": 0.09772,
+   "count": 307
+  },
+  "NE|Retail Trade": {
+   "rate": 0.14208,
+   "count": 922
+  },
+  "NE|Transportation": {
+   "rate": 0.13333,
+   "count": 120
+  },
+  "NE|Unknown": {
+   "rate": 0.08044,
+   "count": 1641
+  },
+  "NE|Wholesale Trade": {
+   "rate": 0.10728,
+   "count": 261
+  },
+  "NH|Accommodation & Food": {
+   "rate": 0.13821,
+   "count": 738
+  },
+  "NH|Admin & Waste Services": {
+   "rate": 0.14286,
+   "count": 525
+  },
+  "NH|Arts & Recreation": {
+   "rate": 0.09048,
+   "count": 210
+  },
+  "NH|Construction": {
+   "rate": 0.1593,
+   "count": 1086
+  },
+  "NH|Educational Services": {
+   "rate": 0.1913,
+   "count": 115
+  },
+  "NH|Finance & Insurance": {
+   "rate": 0.09649,
+   "count": 114
+  },
+  "NH|Health Care": {
+   "rate": 0.03585,
+   "count": 530
+  },
+  "NH|Information": {
+   "rate": 0.20438,
+   "count": 137
+  },
+  "NH|Manufacturing": {
+   "rate": 0.07108,
+   "count": 1027
+  },
+  "NH|Other Services": {
+   "rate": 0.12551,
+   "count": 980
+  },
+  "NH|Professional Services": {
+   "rate": 0.1167,
+   "count": 994
+  },
+  "NH|Real Estate": {
+   "rate": 0.15789,
+   "count": 171
+  },
+  "NH|Retail Trade": {
+   "rate": 0.13668,
+   "count": 1895
+  },
+  "NH|Transportation": {
+   "rate": 0.17586,
+   "count": 290
+  },
+  "NH|Unknown": {
+   "rate": 0.05169,
+   "count": 2631
+  },
+  "NH|Wholesale Trade": {
+   "rate": 0.11063,
+   "count": 461
+  },
+  "NJ|Accommodation & Food": {
+   "rate": 0.20417,
+   "count": 2253
+  },
+  "NJ|Admin & Waste Services": {
+   "rate": 0.20775,
+   "count": 852
+  },
+  "NJ|Arts & Recreation": {
+   "rate": 0.22362,
+   "count": 398
+  },
+  "NJ|Construction": {
+   "rate": 0.24766,
+   "count": 1603
+  },
+  "NJ|Educational Services": {
+   "rate": 0.29249,
+   "count": 253
+  },
+  "NJ|Finance & Insurance": {
+   "rate": 0.29268,
+   "count": 164
+  },
+  "NJ|Health Care": {
+   "rate": 0.09859,
+   "count": 1562
+  },
+  "NJ|Information": {
+   "rate": 0.25984,
+   "count": 254
+  },
+  "NJ|Manufacturing": {
+   "rate": 0.17234,
+   "count": 1323
+  },
+  "NJ|Other Services": {
+   "rate": 0.27232,
+   "count": 2688
+  },
+  "NJ|Professional Services": {
+   "rate": 0.18773,
+   "count": 1875
+  },
+  "NJ|Real Estate": {
+   "rate": 0.26621,
+   "count": 293
+  },
+  "NJ|Retail Trade": {
+   "rate": 0.2331,
+   "count": 3861
+  },
+  "NJ|Transportation": {
+   "rate": 0.2979,
+   "count": 668
+  },
+  "NJ|Unknown": {
+   "rate": 0.09729,
+   "count": 4317
+  },
+  "NJ|Wholesale Trade": {
+   "rate": 0.28472,
+   "count": 1577
+  },
+  "NM|Accommodation & Food": {
+   "rate": 0.14835,
+   "count": 364
+  },
+  "NM|Admin & Waste Services": {
+   "rate": 0.11111,
+   "count": 162
+  },
+  "NM|Construction": {
+   "rate": 0.15116,
+   "count": 430
+  },
+  "NM|Health Care": {
+   "rate": 0.06569,
+   "count": 411
+  },
+  "NM|Manufacturing": {
+   "rate": 0.12981,
+   "count": 416
+  },
+  "NM|Mining & Extraction": {
+   "rate": 0.02797,
+   "count": 143
+  },
+  "NM|Other Services": {
+   "rate": 0.10855,
+   "count": 433
+  },
+  "NM|Professional Services": {
+   "rate": 0.08076,
+   "count": 421
+  },
+  "NM|Retail Trade": {
+   "rate": 0.12676,
+   "count": 852
+  },
+  "NM|Transportation": {
+   "rate": 0.17143,
+   "count": 105
+  },
+  "NM|Unknown": {
+   "rate": 0.09632,
+   "count": 1713
+  },
+  "NM|Wholesale Trade": {
+   "rate": 0.10965,
+   "count": 228
+  },
+  "NV|Accommodation & Food": {
+   "rate": 0.3231,
+   "count": 554
+  },
+  "NV|Admin & Waste Services": {
+   "rate": 0.31373,
+   "count": 357
+  },
+  "NV|Construction": {
+   "rate": 0.25342,
+   "count": 730
+  },
+  "NV|Finance & Insurance": {
+   "rate": 0.32927,
+   "count": 164
+  },
+  "NV|Health Care": {
+   "rate": 0.13172,
+   "count": 577
+  },
+  "NV|Information": {
+   "rate": 0.39815,
+   "count": 108
+  },
+  "NV|Manufacturing": {
+   "rate": 0.2428,
+   "count": 486
+  },
+  "NV|Other Services": {
+   "rate": 0.25373,
+   "count": 603
+  },
+  "NV|Professional Services": {
+   "rate": 0.275,
+   "count": 760
+  },
+  "NV|Real Estate": {
+   "rate": 0.40385,
+   "count": 208
+  },
+  "NV|Retail Trade": {
+   "rate": 0.27891,
+   "count": 1029
+  },
+  "NV|Transportation": {
+   "rate": 0.41606,
+   "count": 137
+  },
+  "NV|Unknown": {
+   "rate": 0.0709,
+   "count": 1749
+  },
+  "NV|Wholesale Trade": {
+   "rate": 0.32361,
+   "count": 377
+  },
+  "NY|Accommodation & Food": {
+   "rate": 0.2343,
+   "count": 4332
+  },
+  "NY|Admin & Waste Services": {
+   "rate": 0.23347,
+   "count": 1906
+  },
+  "NY|Agriculture/Forestry": {
+   "rate": 0.15707,
+   "count": 191
+  },
+  "NY|Arts & Recreation": {
+   "rate": 0.18229,
+   "count": 960
+  },
+  "NY|Construction": {
+   "rate": 0.21453,
+   "count": 4144
+  },
+  "NY|Educational Services": {
+   "rate": 0.22849,
+   "count": 372
+  },
+  "NY|Finance & Insurance": {
+   "rate": 0.25866,
+   "count": 491
+  },
+  "NY|Health Care": {
+   "rate": 0.10321,
+   "count": 2994
+  },
+  "NY|Information": {
+   "rate": 0.27111,
+   "count": 841
+  },
+  "NY|Manufacturing": {
+   "rate": 0.17368,
+   "count": 4324
+  },
+  "NY|Other Services": {
+   "rate": 0.24431,
+   "count": 4699
+  },
+  "NY|Professional Services": {
+   "rate": 0.20872,
+   "count": 4585
+  },
+  "NY|Real Estate": {
+   "rate": 0.30952,
+   "count": 924
+  },
+  "NY|Retail Trade": {
+   "rate": 0.2676,
+   "count": 8819
+  },
+  "NY|Transportation": {
+   "rate": 0.20853,
+   "count": 1664
+  },
+  "NY|Unknown": {
+   "rate": 0.09223,
+   "count": 11656
+  },
+  "NY|Wholesale Trade": {
+   "rate": 0.27515,
+   "count": 4383
+  },
+  "OH|Accommodation & Food": {
+   "rate": 0.22606,
+   "count": 2809
+  },
+  "OH|Admin & Waste Services": {
+   "rate": 0.18275,
+   "count": 1264
+  },
+  "OH|Arts & Recreation": {
+   "rate": 0.22378,
+   "count": 572
+  },
+  "OH|Construction": {
+   "rate": 0.2252,
+   "count": 2611
+  },
+  "OH|Educational Services": {
+   "rate": 0.24895,
+   "count": 237
+  },
+  "OH|Finance & Insurance": {
+   "rate": 0.26879,
+   "count": 346
+  },
+  "OH|Health Care": {
+   "rate": 0.08814,
+   "count": 1906
+  },
+  "OH|Information": {
+   "rate": 0.15534,
+   "count": 412
+  },
+  "OH|Manufacturing": {
+   "rate": 0.13122,
+   "count": 2873
+  },
+  "OH|Other Services": {
+   "rate": 0.18391,
+   "count": 2561
+  },
+  "OH|Professional Services": {
+   "rate": 0.15981,
+   "count": 2359
+  },
+  "OH|Real Estate": {
+   "rate": 0.26186,
+   "count": 485
+  },
+  "OH|Retail Trade": {
+   "rate": 0.21612,
+   "count": 4206
+  },
+  "OH|Transportation": {
+   "rate": 0.22399,
+   "count": 1134
+  },
+  "OH|Unknown": {
+   "rate": 0.09259,
+   "count": 7182
+  },
+  "OH|Wholesale Trade": {
+   "rate": 0.13338,
+   "count": 1387
+  },
+  "OK|Accommodation & Food": {
+   "rate": 0.18472,
+   "count": 720
+  },
+  "OK|Admin & Waste Services": {
+   "rate": 0.19388,
+   "count": 294
+  },
+  "OK|Arts & Recreation": {
+   "rate": 0.18552,
+   "count": 221
+  },
+  "OK|Construction": {
+   "rate": 0.1899,
+   "count": 574
+  },
+  "OK|Health Care": {
+   "rate": 0.09946,
+   "count": 744
+  },
+  "OK|Information": {
+   "rate": 0.20438,
+   "count": 137
+  },
+  "OK|Manufacturing": {
+   "rate": 0.14267,
+   "count": 771
+  },
+  "OK|Mining & Extraction": {
+   "rate": 0.09174,
+   "count": 109
+  },
+  "OK|Other Services": {
+   "rate": 0.16877,
+   "count": 794
+  },
+  "OK|Professional Services": {
+   "rate": 0.15248,
+   "count": 564
+  },
+  "OK|Real Estate": {
+   "rate": 0.20833,
+   "count": 120
+  },
+  "OK|Retail Trade": {
+   "rate": 0.20896,
+   "count": 1407
+  },
+  "OK|Transportation": {
+   "rate": 0.28409,
+   "count": 176
+  },
+  "OK|Unknown": {
+   "rate": 0.11014,
+   "count": 2633
+  },
+  "OK|Wholesale Trade": {
+   "rate": 0.13883,
+   "count": 461
+  },
+  "OR|Accommodation & Food": {
+   "rate": 0.17268,
+   "count": 1054
+  },
+  "OR|Admin & Waste Services": {
+   "rate": 0.21622,
+   "count": 296
+  },
+  "OR|Agriculture/Forestry": {
+   "rate": 0.08738,
+   "count": 103
+  },
+  "OR|Arts & Recreation": {
+   "rate": 0.11224,
+   "count": 196
+  },
+  "OR|Construction": {
+   "rate": 0.26234,
+   "count": 1216
+  },
+  "OR|Finance & Insurance": {
+   "rate": 0.30822,
+   "count": 146
+  },
+  "OR|Health Care": {
+   "rate": 0.07386,
+   "count": 704
+  },
+  "OR|Information": {
+   "rate": 0.22464,
+   "count": 138
+  },
+  "OR|Manufacturing": {
+   "rate": 0.11853,
+   "count": 869
+  },
+  "OR|Other Services": {
+   "rate": 0.19614,
+   "count": 673
+  },
+  "OR|Professional Services": {
+   "rate": 0.14377,
+   "count": 786
+  },
+  "OR|Real Estate": {
+   "rate": 0.24074,
+   "count": 162
+  },
+  "OR|Retail Trade": {
+   "rate": 0.19228,
+   "count": 1477
+  },
+  "OR|Transportation": {
+   "rate": 0.28017,
+   "count": 232
+  },
+  "OR|Unknown": {
+   "rate": 0.06237,
+   "count": 2437
+  },
+  "OR|Wholesale Trade": {
+   "rate": 0.12474,
+   "count": 473
+  },
+  "PA|Accommodation & Food": {
+   "rate": 0.18508,
+   "count": 3258
+  },
+  "PA|Admin & Waste Services": {
+   "rate": 0.17155,
+   "count": 1364
+  },
+  "PA|Agriculture/Forestry": {
+   "rate": 0.07692,
+   "count": 130
+  },
+  "PA|Arts & Recreation": {
+   "rate": 0.16641,
+   "count": 655
+  },
+  "PA|Construction": {
+   "rate": 0.16789,
+   "count": 2865
+  },
+  "PA|Educational Services": {
+   "rate": 0.17467,
+   "count": 229
+  },
+  "PA|Finance & Insurance": {
+   "rate": 0.18947,
+   "count": 380
+  },
+  "PA|Health Care": {
+   "rate": 0.07564,
+   "count": 2102
+  },
+  "PA|Information": {
+   "rate": 0.13941,
+   "count": 373
+  },
+  "PA|Manufacturing": {
+   "rate": 0.13158,
+   "count": 2812
+  },
+  "PA|Other Services": {
+   "rate": 0.16247,
+   "count": 3176
+  },
+  "PA|Professional Services": {
+   "rate": 0.13846,
+   "count": 2925
+  },
+  "PA|Real Estate": {
+   "rate": 0.18534,
+   "count": 491
+  },
+  "PA|Retail Trade": {
+   "rate": 0.18583,
+   "count": 5236
+  },
+  "PA|Transportation": {
+   "rate": 0.21048,
+   "count": 1031
+  },
+  "PA|Unknown": {
+   "rate": 0.08594,
+   "count": 6132
+  },
+  "PA|Wholesale Trade": {
+   "rate": 0.13941,
+   "count": 1535
+  },
+  "RI|Accommodation & Food": {
+   "rate": 0.11862,
+   "count": 607
+  },
+  "RI|Admin & Waste Services": {
+   "rate": 0.13934,
+   "count": 366
+  },
+  "RI|Arts & Recreation": {
+   "rate": 0.11728,
+   "count": 162
+  },
+  "RI|Construction": {
+   "rate": 0.17693,
+   "count": 763
+  },
+  "RI|Finance & Insurance": {
+   "rate": 0.09,
+   "count": 100
+  },
+  "RI|Health Care": {
+   "rate": 0.07187,
+   "count": 487
+  },
+  "RI|Manufacturing": {
+   "rate": 0.09795,
+   "count": 929
+  },
+  "RI|Other Services": {
+   "rate": 0.13861,
+   "count": 808
+  },
+  "RI|Professional Services": {
+   "rate": 0.08609,
+   "count": 755
+  },
+  "RI|Real Estate": {
+   "rate": 0.14094,
+   "count": 149
+  },
+  "RI|Retail Trade": {
+   "rate": 0.15414,
+   "count": 1291
+  },
+  "RI|Transportation": {
+   "rate": 0.16738,
+   "count": 233
+  },
+  "RI|Unknown": {
+   "rate": 0.06144,
+   "count": 1644
+  },
+  "RI|Wholesale Trade": {
+   "rate": 0.10096,
+   "count": 416
+  },
+  "SC|Accommodation & Food": {
+   "rate": 0.21013,
+   "count": 533
+  },
+  "SC|Admin & Waste Services": {
+   "rate": 0.25468,
+   "count": 267
+  },
+  "SC|Arts & Recreation": {
+   "rate": 0.24348,
+   "count": 115
+  },
+  "SC|Construction": {
+   "rate": 0.39365,
+   "count": 315
+  },
+  "SC|Health Care": {
+   "rate": 0.13859,
+   "count": 368
+  },
+  "SC|Manufacturing": {
+   "rate": 0.18256,
+   "count": 367
+  },
+  "SC|Other Services": {
+   "rate": 0.2095,
+   "count": 463
+  },
+  "SC|Professional Services": {
+   "rate": 0.21649,
+   "count": 388
+  },
+  "SC|Retail Trade": {
+   "rate": 0.26377,
+   "count": 853
+  },
+  "SC|Transportation": {
+   "rate": 0.31034,
+   "count": 116
+  },
+  "SC|Unknown": {
+   "rate": 0.09852,
+   "count": 1350
+  },
+  "SC|Wholesale Trade": {
+   "rate": 0.19283,
+   "count": 223
+  },
+  "SD|Accommodation & Food": {
+   "rate": 0.12709,
+   "count": 299
+  },
+  "SD|Agriculture/Forestry": {
+   "rate": 0.04464,
+   "count": 112
+  },
+  "SD|Construction": {
+   "rate": 0.08727,
+   "count": 275
+  },
+  "SD|Health Care": {
+   "rate": 0.04202,
+   "count": 238
+  },
+  "SD|Manufacturing": {
+   "rate": 0.04828,
+   "count": 290
+  },
+  "SD|Other Services": {
+   "rate": 0.08511,
+   "count": 376
+  },
+  "SD|Professional Services": {
+   "rate": 0.11732,
+   "count": 179
+  },
+  "SD|Retail Trade": {
+   "rate": 0.09968,
+   "count": 632
+  },
+  "SD|Unknown": {
+   "rate": 0.06352,
+   "count": 1527
+  },
+  "SD|Wholesale Trade": {
+   "rate": 0.07643,
+   "count": 157
+  },
+  "TN|Accommodation & Food": {
+   "rate": 0.27124,
+   "count": 671
+  },
+  "TN|Admin & Waste Services": {
+   "rate": 0.33577,
+   "count": 411
+  },
+  "TN|Arts & Recreation": {
+   "rate": 0.17368,
+   "count": 190
+  },
+  "TN|Construction": {
+   "rate": 0.32818,
+   "count": 582
+  },
+  "TN|Health Care": {
+   "rate": 0.1442,
+   "count": 638
+  },
+  "TN|Information": {
+   "rate": 0.33133,
+   "count": 166
+  },
+  "TN|Manufacturing": {
+   "rate": 0.21053,
+   "count": 608
+  },
+  "TN|Other Services": {
+   "rate": 0.22049,
+   "count": 771
+  },
+  "TN|Professional Services": {
+   "rate": 0.22931,
+   "count": 580
+  },
+  "TN|Real Estate": {
+   "rate": 0.36585,
+   "count": 123
+  },
+  "TN|Retail Trade": {
+   "rate": 0.27303,
+   "count": 1487
+  },
+  "TN|Transportation": {
+   "rate": 0.315,
+   "count": 200
+  },
+  "TN|Unknown": {
+   "rate": 0.09609,
+   "count": 2352
+  },
+  "TN|Wholesale Trade": {
+   "rate": 0.1773,
+   "count": 423
+  },
+  "TX|Accommodation & Food": {
+   "rate": 0.26845,
+   "count": 5096
+  },
+  "TX|Admin & Waste Services": {
+   "rate": 0.25705,
+   "count": 2342
+  },
+  "TX|Agriculture/Forestry": {
+   "rate": 0.14565,
+   "count": 460
+  },
+  "TX|Arts & Recreation": {
+   "rate": 0.22632,
+   "count": 950
+  },
+  "TX|Construction": {
+   "rate": 0.22127,
+   "count": 4203
+  },
+  "TX|Educational Services": {
+   "rate": 0.21713,
+   "count": 502
+  },
+  "TX|Finance & Insurance": {
+   "rate": 0.30028,
+   "count": 716
+  },
+  "TX|Health Care": {
+   "rate": 0.11035,
+   "count": 5120
+  },
+  "TX|Information": {
+   "rate": 0.27239,
+   "count": 815
+  },
+  "TX|Manufacturing": {
+   "rate": 0.17728,
+   "count": 4569
+  },
+  "TX|Mining & Extraction": {
+   "rate": 0.07427,
+   "count": 377
+  },
+  "TX|Other Services": {
+   "rate": 0.19505,
+   "count": 6752
+  },
+  "TX|Professional Services": {
+   "rate": 0.18804,
+   "count": 4983
+  },
+  "TX|Real Estate": {
+   "rate": 0.26289,
+   "count": 970
+  },
+  "TX|Retail Trade": {
+   "rate": 0.24739,
+   "count": 9471
+  },
+  "TX|Transportation": {
+   "rate": 0.30918,
+   "count": 1546
+  },
+  "TX|Unknown": {
+   "rate": 0.12381,
+   "count": 17737
+  },
+  "TX|Wholesale Trade": {
+   "rate": 0.16213,
+   "count": 3670
+  },
+  "UT|Accommodation & Food": {
+   "rate": 0.21236,
+   "count": 890
+  },
+  "UT|Admin & Waste Services": {
+   "rate": 0.22416,
+   "count": 803
+  },
+  "UT|Arts & Recreation": {
+   "rate": 0.20567,
+   "count": 282
+  },
+  "UT|Construction": {
+   "rate": 0.24898,
+   "count": 2197
+  },
+  "UT|Educational Services": {
+   "rate": 0.2454,
+   "count": 163
+  },
+  "UT|Finance & Insurance": {
+   "rate": 0.35821,
+   "count": 335
+  },
+  "UT|Health Care": {
+   "rate": 0.12146,
+   "count": 1235
+  },
+  "UT|Information": {
+   "rate": 0.2254,
+   "count": 315
+  },
+  "UT|Manufacturing": {
+   "rate": 0.13887,
+   "count": 1757
+  },
+  "UT|Mining & Extraction": {
+   "rate": 0.09167,
+   "count": 120
+  },
+  "UT|Other Services": {
+   "rate": 0.16185,
+   "count": 1489
+  },
+  "UT|Professional Services": {
+   "rate": 0.25274,
+   "count": 1642
+  },
+  "UT|Real Estate": {
+   "rate": 0.2584,
+   "count": 387
+  },
+  "UT|Retail Trade": {
+   "rate": 0.19919,
+   "count": 2214
+  },
+  "UT|Transportation": {
+   "rate": 0.18971,
+   "count": 680
+  },
+  "UT|Unknown": {
+   "rate": 0.06809,
+   "count": 3275
+  },
+  "UT|Wholesale Trade": {
+   "rate": 0.15535,
+   "count": 869
+  },
+  "VA|Accommodation & Food": {
+   "rate": 0.23583,
+   "count": 1094
+  },
+  "VA|Admin & Waste Services": {
+   "rate": 0.26007,
+   "count": 596
+  },
+  "VA|Arts & Recreation": {
+   "rate": 0.27273,
+   "count": 231
+  },
+  "VA|Construction": {
+   "rate": 0.24189,
+   "count": 1017
+  },
+  "VA|Educational Services": {
+   "rate": 0.24224,
+   "count": 161
+  },
+  "VA|Finance & Insurance": {
+   "rate": 0.26718,
+   "count": 131
+  },
+  "VA|Health Care": {
+   "rate": 0.09595,
+   "count": 865
+  },
+  "VA|Information": {
+   "rate": 0.26718,
+   "count": 262
+  },
+  "VA|Manufacturing": {
+   "rate": 0.18768,
+   "count": 714
+  },
+  "VA|Other Services": {
+   "rate": 0.20402,
+   "count": 1044
+  },
+  "VA|Professional Services": {
+   "rate": 0.16033,
+   "count": 1472
+  },
+  "VA|Real Estate": {
+   "rate": 0.26744,
+   "count": 172
+  },
+  "VA|Retail Trade": {
+   "rate": 0.26824,
+   "count": 1823
+  },
+  "VA|Transportation": {
+   "rate": 0.30504,
+   "count": 377
+  },
+  "VA|Unknown": {
+   "rate": 0.06859,
+   "count": 2741
+  },
+  "VA|Wholesale Trade": {
+   "rate": 0.23678,
+   "count": 435
+  },
+  "VT|Accommodation & Food": {
+   "rate": 0.12654,
+   "count": 324
+  },
+  "VT|Admin & Waste Services": {
+   "rate": 0.08475,
+   "count": 118
+  },
+  "VT|Construction": {
+   "rate": 0.11465,
+   "count": 314
+  },
+  "VT|Health Care": {
+   "rate": 0.04167,
+   "count": 192
+  },
+  "VT|Manufacturing": {
+   "rate": 0.07221,
+   "count": 457
+  },
+  "VT|Other Services": {
+   "rate": 0.07353,
+   "count": 272
+  },
+  "VT|Professional Services": {
+   "rate": 0.03448,
+   "count": 261
+  },
+  "VT|Retail Trade": {
+   "rate": 0.0843,
+   "count": 866
+  },
+  "VT|Transportation": {
+   "rate": 0.12621,
+   "count": 103
+  },
+  "VT|Unknown": {
+   "rate": 0.06732,
+   "count": 2035
+  },
+  "VT|Wholesale Trade": {
+   "rate": 0.07065,
+   "count": 184
+  },
+  "WA|Accommodation & Food": {
+   "rate": 0.19334,
+   "count": 2312
+  },
+  "WA|Admin & Waste Services": {
+   "rate": 0.20807,
+   "count": 644
+  },
+  "WA|Agriculture/Forestry": {
+   "rate": 0.08889,
+   "count": 225
+  },
+  "WA|Arts & Recreation": {
+   "rate": 0.18697,
+   "count": 353
+  },
+  "WA|Construction": {
+   "rate": 0.25256,
+   "count": 2047
+  },
+  "WA|Educational Services": {
+   "rate": 0.18881,
+   "count": 143
+  },
+  "WA|Finance & Insurance": {
+   "rate": 0.27933,
+   "count": 179
+  },
+  "WA|Health Care": {
+   "rate": 0.05174,
+   "count": 1662
+  },
+  "WA|Information": {
+   "rate": 0.15455,
+   "count": 220
+  },
+  "WA|Manufacturing": {
+   "rate": 0.13458,
+   "count": 1449
+  },
+  "WA|Other Services": {
+   "rate": 0.15802,
+   "count": 1677
+  },
+  "WA|Professional Services": {
+   "rate": 0.14112,
+   "count": 1566
+  },
+  "WA|Real Estate": {
+   "rate": 0.21359,
+   "count": 309
+  },
+  "WA|Retail Trade": {
+   "rate": 0.17116,
+   "count": 3155
+  },
+  "WA|Transportation": {
+   "rate": 0.29688,
+   "count": 448
+  },
+  "WA|Unknown": {
+   "rate": 0.05863,
+   "count": 5884
+  },
+  "WA|Wholesale Trade": {
+   "rate": 0.12791,
+   "count": 946
+  },
+  "WI|Accommodation & Food": {
+   "rate": 0.18417,
+   "count": 2009
+  },
+  "WI|Admin & Waste Services": {
+   "rate": 0.15017,
+   "count": 606
+  },
+  "WI|Agriculture/Forestry": {
+   "rate": 0.08633,
+   "count": 139
+  },
+  "WI|Arts & Recreation": {
+   "rate": 0.11364,
+   "count": 440
+  },
+  "WI|Construction": {
+   "rate": 0.16891,
+   "count": 1634
+  },
+  "WI|Finance & Insurance": {
+   "rate": 0.25478,
+   "count": 157
+  },
+  "WI|Health Care": {
+   "rate": 0.07897,
+   "count": 1051
+  },
+  "WI|Information": {
+   "rate": 0.16754,
+   "count": 191
+  },
+  "WI|Manufacturing": {
+   "rate": 0.10339,
+   "count": 2476
+  },
+  "WI|Other Services": {
+   "rate": 0.13246,
+   "count": 1457
+  },
+  "WI|Professional Services": {
+   "rate": 0.12432,
+   "count": 1110
+  },
+  "WI|Real Estate": {
+   "rate": 0.20949,
+   "count": 253
+  },
+  "WI|Retail Trade": {
+   "rate": 0.16726,
+   "count": 2792
+  },
+  "WI|Transportation": {
+   "rate": 0.12014,
+   "count": 591
+  },
+  "WI|Unknown": {
+   "rate": 0.06002,
+   "count": 5232
+  },
+  "WI|Wholesale Trade": {
+   "rate": 0.13108,
+   "count": 740
+  },
+  "WV|Accommodation & Food": {
+   "rate": 0.21076,
+   "count": 223
+  },
+  "WV|Construction": {
+   "rate": 0.16022,
+   "count": 181
+  },
+  "WV|Health Care": {
+   "rate": 0.13063,
+   "count": 222
+  },
+  "WV|Manufacturing": {
+   "rate": 0.1791,
+   "count": 201
+  },
+  "WV|Other Services": {
+   "rate": 0.14692,
+   "count": 211
+  },
+  "WV|Professional Services": {
+   "rate": 0.14286,
+   "count": 203
+  },
+  "WV|Retail Trade": {
+   "rate": 0.19593,
+   "count": 541
+  },
+  "WV|Unknown": {
+   "rate": 0.13189,
+   "count": 1016
+  },
+  "WV|Wholesale Trade": {
+   "rate": 0.19811,
+   "count": 106
+  },
+  "WY|Accommodation & Food": {
+   "rate": 0.08374,
+   "count": 203
+  },
+  "WY|Construction": {
+   "rate": 0.11814,
+   "count": 237
+  },
+  "WY|Health Care": {
+   "rate": 0.02069,
+   "count": 145
+  },
+  "WY|Manufacturing": {
+   "rate": 0.05389,
+   "count": 167
+  },
+  "WY|Other Services": {
+   "rate": 0.02979,
+   "count": 235
+  },
+  "WY|Professional Services": {
+   "rate": 0.0531,
+   "count": 113
+  },
+  "WY|Retail Trade": {
+   "rate": 0.07772,
+   "count": 386
+  },
+  "WY|Unknown": {
+   "rate": 0.07684,
+   "count": 924
+  }
+ }
+}

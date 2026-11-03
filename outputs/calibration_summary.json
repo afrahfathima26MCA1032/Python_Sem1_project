@@ -1,0 +1,10 @@
+{
+  "chosen_method": "Isotonic",
+  "roc_auc_before": 0.84011751606144,
+  "roc_auc_after": 0.8400677867795462,
+  "ece_before": 0.16945616015801745,
+  "ece_after": 0.0019859216364085074,
+  "ece_sigmoid": 0.01223570404445266,
+  "brier_before": 0.14179231937293726,
+  "brier_after": 0.10458458990754306
+}

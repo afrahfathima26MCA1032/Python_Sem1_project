@@ -1,0 +1,17 @@
+{
+  "ApprovalFY":0.0904369516,
+  "same_state":0.0394313021,
+  "UrbanRural_Undefined":0.0299794688,
+  "guarantee_ratio":0.0281904719,
+  "BankState_risk":0.0276389349,
+  "SBA_Appv":0.0255819586,
+  "GrAppv":0.0206606793,
+  "NAICS_sector_risk":0.0205306308,
+  "State_risk":0.0184133663,
+  "RetainedJob":0.0162691341,
+  "UrbanRural_Urban":0.0154646498,
+  "disbursement_ratio":0.0146296688,
+  "NewExist_New":0.0107050925,
+  "jobs_total":0.010389268,
+  "RevLineCr_Y":0.0100700259
+}

@@ -1,0 +1,24 @@
+{
+  "raw_rows": 899164,
+  "raw_cols": 27,
+  "clean_rows": 897167,
+  "clean_cols": 22,
+  "n_features_model": 24,
+  "default_rate": 0.1756,
+  "dropped_leaky_columns": [
+    "ChgOffDate",
+    "ChgOffPrinGr",
+    "BalanceGross",
+    "Term"
+  ],
+  "results": {
+    "Logistic Regression": {
+      "roc_auc": 0.7376,
+      "pr_auc": 0.3663
+    },
+    "Random Forest": {
+      "roc_auc": 0.8421,
+      "pr_auc": 0.5892
+    }
+  }
+}

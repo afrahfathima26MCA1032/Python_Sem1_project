@@ -1,0 +1,24 @@
+{
+  "evidence": {
+    "default_rate_standard_term": 0.0238,
+    "default_rate_nonstandard_term": 0.5439,
+    "repaid_with_standard_term": 0.8386,
+    "defaulted_with_standard_term": 0.0962,
+    "term_vs_actual_life_corr": 0.0528,
+    "single_feature_auc_term": 0.8077,
+    "single_feature_auc_next_best": 0.6927
+  },
+  "impact": {
+    "with Term (original project)": {
+      "roc_auc": 0.9757,
+      "recall": 0.888
+    },
+    "without Term (honest)": {
+      "roc_auc": 0.8421,
+      "recall": 0.6776
+    }
+  },
+  "cv_5fold_roc_auc_mean": 0.8358,
+  "cv_5fold_roc_auc_std": 0.002,
+  "out_of_time_roc_auc": 0.7746
+}
