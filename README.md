@@ -154,8 +154,9 @@ Risk levels: **Lower** (< 10 %), **Medium** (10–35 %), **Higher** (≥ 35 %).
 └── .streamlit/config.toml           app theme
 ```
 
-The two dataset files are stored with **Git LFS** because they are larger than GitHub's
-100 MB file limit.
+The two dataset files are larger than GitHub's 100 MB file limit, so they are attached to the
+**v1.0 Release** of this repository. Download SBAnational.csv into data/raw/ and
+sba_clean.csv into data/processed/.
 
 ## How to run
 
